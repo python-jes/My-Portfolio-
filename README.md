@@ -75,7 +75,7 @@
 
 ## 📫 Let's Connect
 - 📧 Email: chantymujo@gmail.com
-- 🌐 [LinkedIn](linkedin.com/in/chantelle-mujokoro-240944217)
+- 🌐 [LinkedIn](https://linkedin.com/in/chantelle-mujokoro-240944217)
 - 🧑‍💻 [GitHub Projects](https://github.com/python-jes)
 
   > Thanks for visiting my GitHub! Let's connect, collaborate, and grow together 🚀
