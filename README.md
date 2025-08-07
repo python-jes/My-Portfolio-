@@ -40,5 +40,5 @@
 
 ## 📫 Let's Connect
 - 📧 Email: chantymujo@gmail.com
-- 🌐 [LinkedIn](https://linkedin.com/in/your-link)
+- 🌐 [LinkedIn](linkedin.com/in/chantelle-mujokoro-240944217)
 - 🧑‍💻 [GitHub Projects](https://github.com/python-jes)
