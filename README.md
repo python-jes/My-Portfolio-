@@ -68,7 +68,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [Beauty services Website](https://github.com/python-jes/aquariusleo-cleaning) | Business website for beauty services company | HTML , CSS |
-| [Task Tracker App](https://github.com/python-jes/task-tracker) | Simple to-do/task tracker | HTML, JS |
+
 
 
 ---
