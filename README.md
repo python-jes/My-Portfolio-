@@ -69,7 +69,7 @@
 |--------|-------------|------|
 | [Beauty services Website](https://github.com/python-jes/aquariusleo-cleaning) | Business website for beauty services company | HTML , CSS |
 | [Task Tracker App](https://github.com/python-jes/task-tracker) | Simple to-do/task tracker | HTML, JS |
-| [CV/Resume Website](https://github.com/python-jes/resume-site) | Online interactive CV | HTML, TailwindCSS |
+
 
 ---
 
