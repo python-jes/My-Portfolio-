@@ -60,17 +60,6 @@
 > Scheduled appointments and maintained executive calendars > Managed internal files, purchase logs, and data entry  
 > Generated reports and performed quality control checks
 
-
----
-
-## 📁 Portfolio Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [Beauty services Website](https://github.com/python-jes/aquariusleo-cleaning) | Business website for beauty services company | HTML , CSS |
-
-
-
 ---
 
 ## 📫 Let's Connect
