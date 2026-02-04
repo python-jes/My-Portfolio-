@@ -66,6 +66,6 @@
 - 📧 Email: chantymujo@gmail.com
 - 🌐 [LinkedIn](https://linkedin.com/in/chantelle-mujokoro-240944217)
 - 🧑‍💻 [GitHub Projects]([https://github.com/python-jes/My-Portfolio-])
-- ([https://literate-rotary-phone-5gqxq55j5vg92vpv-5174.app.github.dev/#/login])
+
 
   > Thanks for visiting my GitHub! Let's connect, collaborate, and grow together 🚀
