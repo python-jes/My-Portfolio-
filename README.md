@@ -65,7 +65,6 @@
 ## 📫 Let's Connect
 - 📧 Email: chantymujo@gmail.com
 - 🌐 [LinkedIn](https://linkedin.com/in/chantelle-mujokoro-240944217)
-- 🧑‍💻 [GitHub Projects]([https://github.com/python-jes/My-Portfolio-])
-
+- 🧑‍💻[Github project](https://github.com/python-jes/My-Portfolio-)
 
   > Thanks for visiting my GitHub! Let's connect, collaborate, and grow together 🚀
