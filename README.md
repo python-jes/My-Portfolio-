@@ -65,6 +65,6 @@
 ## 📫 Let's Connect
 - 📧 Email: chantymujo@gmail.com
 - 🌐 [LinkedIn](https://linkedin.com/in/chantelle-mujokoro-240944217)
-- 🧑‍💻[Github project](https://github.com/python-jes/My-Portfolio-)
+- 🧼💻 [AquriusLeo Cleaning Service ](https://grand-otter-d93b4a.netlify.app/)
 
   > Thanks for visiting my GitHub! Let's connect, collaborate, and grow together 🚀
