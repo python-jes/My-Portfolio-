@@ -16,6 +16,7 @@
 - [Ongoing Learning](#ongoing-learning)
 - [Projects & Contributions](#projects--contributions)
 - [Contact](#contact)
+- 
 
 ---
 
@@ -66,5 +67,6 @@
 - 📧 Email: chantymujo@gmail.com
 - 🌐 [LinkedIn](https://linkedin.com/in/chantelle-mujokoro-240944217)
 - 🧼💻 [AquriusLeo Cleaning Service ](https://grand-otter-d93b4a.netlify.app/)
+- 💅💻 [C_Angeline Beauty Bar ](https://delicate-monstera-e8b432.netlify.app)
 
   > Thanks for visiting my GitHub! Let's connect, collaborate, and grow together 🚀
