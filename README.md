@@ -36,7 +36,7 @@
 `JavaScript` `HTML` `CSS` `SQL`
 
 ### Development Tools  
-`Visual Studio Code` `GitHub` `Figma` 'R-Studio'
+`Visual Studio Code` `GitHub` `Figma` `R-Studio`
 
 ### UML & Design Tools
 ` Visual Paradigm` 
