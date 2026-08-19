@@ -49,12 +49,6 @@
 ## 💼 Experience
 **Digital Marketing Manager** @ AquariusLeo  
 > Led digital marketing campaigns and managed social media strategy
-    - Instagram posts you created
-    - Facebook content
-    - Campaign examples
-    - Captions/copywriting
-    - Content calendars
-    - Promotional graphics
 > Designed and maintained the company website using **HTML** and **CSS**  
 > Implemented workflow automations and analyzed customer engagement metrics
 
