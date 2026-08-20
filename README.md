@@ -15,8 +15,7 @@
 - [Work Experience](#work-experience)
 - [Ongoing Learning](#ongoing-learning)
 - [Projects & Contributions](#projects--contributions)
-- [Contact](#contact)
-- 
+- [Contact](#Let'sConnect) 
 
 ---
 
